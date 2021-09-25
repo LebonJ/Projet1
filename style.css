@@ -1,9 +1,15 @@
 /* Header */
-.container-fluid
+body
+{
+  margin-left: 0px;
+}
+.banniere
 {
   background-color: rgb(116 81 235);
+  left: 0;
+  right: 0;
   height: 450px;
-  background-image: url(photo.png);
+  background-image: url(Image/Photo.png);
   background-repeat: no-repeat;
   background-size: 600px;
   background-position: 800px;
@@ -86,6 +92,6 @@ footer Span
 footer img
 {
   position: relative; right: 405px; top :50px;
-  width: 8%;
+  width: 4%;
   padding: 5px;
 }
