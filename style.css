@@ -1,0 +1,91 @@
+/* Header */
+.container-fluid
+{
+  background-color: rgb(116 81 235);
+  height: 450px;
+  background-image: url(Image/Photo.png);
+  background-repeat: no-repeat;
+  background-size: 600px;
+  background-position: 800px;
+}
+H1
+{
+  color: white;
+  font-size: 4.5em;
+}
+header h2
+{
+  font-size: 3.3em;
+  background: rgb(0 237 162);
+  width: 430px;
+}
+.Nom
+{
+  margin-left: 170px;
+  padding-top: 70px;
+}
+.Presentation
+{
+  margin-left: 160px;
+  margin-top: 50px;
+  color: white;
+  width: 400px;
+}
+header img
+{
+  width: 30%;
+  margin-top: -300px;
+  margin-left: 800px;
+}
+
+/* Section */
+
+.Comp
+{
+  background: rgb(0 237 162);
+}
+
+Section img
+{
+  float: left;
+  width: 30%;
+}
+
+.Paragraphe
+{
+  position: relative; top:150px;
+  width: 1400px;
+}
+li
+{
+  position: relative; left: 70px;
+}
+
+/* Footer */
+footer
+{
+  position: relative; top: 300px;
+  height: 300px;
+  background-color: rgb(0 54 104);
+}
+footer h2
+{
+  color: White;
+  position: relative; right: 400px; top: 50px;
+}
+footer p
+{
+  color: white;
+  font-size: 1.5em;
+  position: relative; right: 400px; top: 50px;
+}
+footer Span
+{
+  color: black;
+}
+footer img
+{
+  position: relative; right: 405px; top :50px;
+  width: 8%;
+  padding: 5px;
+}
